@@ -17,14 +17,14 @@ I study Computer Science & Artificial Intelligence at Menoufia University. My wo
 
 ## Selected projects
 
-These projects are described in my portfolio.
+Project write-ups are on my portfolio. The code repositories below are my own ESP32 and Python implementations of each idea.
 
-| Project | Focus |
-| --- | --- |
-| **Smart Event Hall** | QR-based guest registration and access control, environmental monitoring, a web dashboard, and event prediction |
-| **Smart Greenhouse** | ESP32-CAM image comparison, ESP8266-based irrigation and cooling, soil moisture sensing, and monitoring |
-| **Smart Trash Bin** | Fill-level monitoring, automatic lid control, and LCD status updates |
-| **Player Performance AI** | Python-based analysis of player performance across 10 matches and forecasting for upcoming games |
+| Project | Focus | Code |
+| --- | --- | --- |
+| **Smart Event Hall** | QR-based guest registration and access control, environmental monitoring, a web dashboard, and event prediction | [smart-event-hall-esp32](https://github.com/mosalah34/smart-event-hall-esp32) |
+| **Smart Greenhouse** | ESP32-CAM image comparison, ESP8266-based irrigation and cooling, soil moisture sensing, and monitoring | [smart-greenhouse-esp32](https://github.com/mosalah34/smart-greenhouse-esp32) |
+| **Smart Trash Bin** | Fill-level monitoring, automatic lid control, and LCD status updates | [smart-trash-bin-esp32](https://github.com/mosalah34/smart-trash-bin-esp32) |
+| **Player Performance AI** | Python-based analysis of player performance across 10 matches and forecasting for upcoming games | [player-performance-ai](https://github.com/mosalah34/player-performance-ai) |
 
 ## Connect
 
@@ -32,3 +32,4 @@ I'm open to internships and collaborations in embedded systems and IoT.
 
 - **Portfolio:** https://mosalah34.github.io/ENG_Mhamed-Salah/
 - **Email:** msmso1645@gmail.com
+
