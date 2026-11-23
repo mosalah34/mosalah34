@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mohamed Salah
 
-<!--
-**mosalah34/mosalah34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IoT & Embedded Systems Engineer
 
-Here are some ideas to get you started:
+I build connected hardware and intelligent systems, from sensors and embedded control to monitoring dashboards and Python-based analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I study Computer Science & Artificial Intelligence at Menoufia University. My work focuses on ESP32, ESP8266, Arduino, C++, and Python.
+
+[View my portfolio](https://mosalah34.github.io/ENG_Mhamed-Salah/)
+
+## What I work with
+
+- **Embedded systems:** ESP32, ESP8266, Arduino, C++
+- **Hardware:** sensors, actuators, integration, and troubleshooting
+- **Intelligent systems:** Python, computer vision, and predictive modeling
+- **IoT applications:** automation and monitoring dashboards
+
+## Selected projects
+
+These projects are described in my portfolio.
+
+| Project | Focus |
+| --- | --- |
+| **Smart Event Hall** | QR-based guest registration and access control, environmental monitoring, a web dashboard, and event prediction |
+| **Smart Greenhouse** | ESP32-CAM image comparison, ESP8266-based irrigation and cooling, soil moisture sensing, and monitoring |
+| **Smart Trash Bin** | Fill-level monitoring, automatic lid control, and LCD status updates |
+| **Player Performance AI** | Python-based analysis of player performance across 10 matches and forecasting for upcoming games |
+
+## Connect
+
+I'm open to internships and collaborations in embedded systems and IoT.
+
+- **Portfolio:** https://mosalah34.github.io/ENG_Mhamed-Salah/
+- **Email:** msmso1645@gmail.com
