@@ -30,6 +30,10 @@ I build connected hardware and intelligent systems: ESP32 firmware, sensors and 
 | [Player Performance AI](https://github.com/mosalah34/player-performance-ai) | Predicts a football player's next-match rating and form trend |
 | [Portfolio website](https://github.com/mosalah34/ENG_Mhamed-Salah) | My personal site, hosted on GitHub Pages |
 
+## Certifications
+
+- IoT Fundamentals, with distinction (100%), Science of Apps, November 2026. [Verify](https://scienceofapps.com/certification/verify/?id=SOA-IOT-LXGL-HZBQ)
+
 ## Connect
 
 - Portfolio: https://mosalah34.github.io/ENG_Mhamed-Salah/
